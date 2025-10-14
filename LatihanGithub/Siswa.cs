@@ -21,10 +21,5 @@ namespace LatihanGithub
         {
 
         }
-
-        private void btnSimpan_Click(object sender, EventArgs e)
-        {
-            DialogResult hasil = MessageBox.Show("Yakin simpan data?")
-        }
     }
 }
